@@ -35,6 +35,11 @@ The moment you turn off autocomplete and type through the discomfort — your ha
 | 08 | [RAG](./rag_muscle_memory.md) | Full production RAG pipeline | 3–4 days |
 | 09 | [Chatbot Memory](./chatbot_memory_layers.md) | Memory-powered chatbot (all 5 layers) | 3–4 days |
 | 10 | [Rust](./rust_muscle_memory.md) | CLI Task Manager (go slow here) | 5–7 days |
+| 11 | [langchain](./langchain_muscle_memory_explained.md) | Full Document QA System | 5–7 days |
+| 12 | [DSA 50Q](./dsa_50_problems.md) | 50 DSA Problem | at your pace |
+
+
+
 
 ---
 
